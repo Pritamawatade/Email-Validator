@@ -43,7 +43,7 @@ input{
 
 button{
     margin-top: 22px;
-    width: 110px;
+    width :auto;
     height: 40px;
     border-radius: 9px;
     background-color : black;
